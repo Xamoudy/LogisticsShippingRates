@@ -9,3 +9,7 @@ shipping_cost = weight * rate
 
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
+
+##Updated using GitBash -- NotePad
+
+## Updated using VS code Gitbash
